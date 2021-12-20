@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://s10.gifyu.com/images/ADIL.jpg" alt="img" width="220" height="30"/>
+src="https://s10.gifyu.com/images/wp5124579.jpg" alt="img" width="220" height="30"/>
 </p>
         <img 
 src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
